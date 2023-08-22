@@ -25,8 +25,8 @@
 <hr>
 <h3>:fire: My Stats :</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Iveto97&show_icons=true&theme=buefy" height="190">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Iveto97&theme=buefy" width="460"  height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iveto97&show_icons=true&theme=buefy"  width="400" height="190">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Iveto97&theme=buefy" width="400"  height="200">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iveto97&layout=compact&theme=buefy">
 </p>
 <hr>
