@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0-%D0%BA%D1%80%D1%8A%D1%81%D1%82%D0%B5%D0%B2%D0%B0-5aa716151/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px" height="24px">
   </a>
-  <a href="">
+  <a href="mailto:iveto9244@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px" height="24px">
   </a>  
 </p>
