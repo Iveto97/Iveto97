@@ -39,7 +39,7 @@
   Programming Fundamentals with JavaScript
 </a><br>
 <a href="https://softuni.bg/certificates/details/180373/fd33e06a">
-  JavaScript Advanced 
+  Programming Advanced with JavaScript
 </a>
 
 <!---
