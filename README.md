@@ -22,6 +22,13 @@
   </a>
 </p>
 
+<p align="left">
+  <h3>🌱 Basic knowledge</h3>
+  <a href="#">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px" height="24px">
+  </a>
+</p>
+
 <hr>
 <h3>:fire: My Stats :</h3>
 <p>
