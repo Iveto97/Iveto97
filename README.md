@@ -1,4 +1,4 @@
-<h2>Hi there 👋</h2>
+<h2>Hi there 👋 My name is Iva</h2>
 
 <p align="center">
   <a href="https://github.com/Iveto97"> 
@@ -16,9 +16,18 @@
 </p>
   
 <p align="left">
-  <h3>🌱 I’m currently learning</h3>
+  <h3>🌱 I'm working with</h3>
   <a href="#">
-    <img src="png/languages/js.png" alt="example badge" style="vertical-align:top margin:6px 4px" height="24px">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="example badge" style="vertical-align:top margin:6px 4px" height="24px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:top margin:6px 4px" height="24px">
+  </a>
+   <a href="#">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="vertical-align:top margin:6px 4px" height="24px">
+  </a>
+   <a href="#">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="vertical-align:top margin:6px 4px" height="24px">
   </a>
 </p>
 
