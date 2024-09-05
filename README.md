@@ -1,10 +1,4 @@
 <h2>Hi there 👋 My name is Iva</h2>
-
-<p align="center">
-  <a href="mailto:iveto9244@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px" height="24px">
-  </a>  
-</p>
   
 <p align="left">
   <h3>🌱 I'm working with</h3>
